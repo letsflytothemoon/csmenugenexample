@@ -1,0 +1,3 @@
+[submodule "csmenugen"]
+	path = csmenugen
+	url = git@github.com:letsflytothemoon/csmenugen.git
